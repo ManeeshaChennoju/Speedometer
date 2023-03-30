@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn_container {
+  display: flex;
+  flex-direction: row;
+}
+
+.image {
+  width: 50%;
+}
+
+.heading {
+  color: white;
+}
+
+.button1 {
+  background-color: rgb(46, 83, 248);
+  color: white;
+}
+.button {
+  background-color: transparent;
+  color: white;
+}
